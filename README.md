@@ -31,14 +31,13 @@ I've made A LOT of projects throughout the years, but here's a small list with s
 I've been around, seeing and trying a lot of different languages.
 
 Here's a small list with those I'm comfortable with:
-- C# (ASP.NET and Unity)
-- Java (Minecraft modding)
+- Rust
 - Flutter (Android and iOS)
 - Javascript (NodeJS, Demo and browser)
-- Rust (Kind of it all)
+- C# (ASP.NET and Unity)
+- Java
 - Go
 - C++
 - C
-- Zig
 
 Enough about me, let's get started
