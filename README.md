@@ -10,10 +10,6 @@ I started out programming when I were 11 years old, mostly drawn by the game cre
 
 I've always enjoyed reading technical papers, researching new and upcoming technologies. I'm quite curious by nature.
 
-Currently I work at [Lareno A/S](lareno.dk), as a programmer. I've been doing a lot of different things here, but the biggest, by far, is the website. I got pretty much free hands when it came to the stack, and the site ended up doing exactly what it should, without being too complex, so it can be passed along to non-tech-savvy people.
-
-I'm currently taking a degree as a "Datamatiker" which is easiest translated from Danish into taking a Computer Science degree.
-
 # Projects
 
 I've made A LOT of projects throughout the years, so here's a small list with some of my most notable ones (which aren't publicly available, kinda chronologically sorted, based on when I created them):
